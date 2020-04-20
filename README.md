@@ -1,4 +1,4 @@
-# ui_ch2
+# Flutter UI Groceries Ordering App UI
 
 A new Flutter project.
 
