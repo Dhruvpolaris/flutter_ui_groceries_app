@@ -1,6 +1,6 @@
-# Flutter UI Groceries Ordering App UI
+# Flutter UI Groceries Ordering App
 
-A new Flutter project.
+![alt text](https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif)
 
 ## Getting Started
 
