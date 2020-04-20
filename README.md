@@ -1,12 +1,7 @@
 # Flutter UI Groceries Ordering App
-
-![Final_Output](https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif?style=centerme)
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
+<p align="center"> 
+![Final_Output](https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif)
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
