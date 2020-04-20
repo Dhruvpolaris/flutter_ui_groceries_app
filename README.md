@@ -11,5 +11,5 @@
 4. Stack
 5. Bottom Navigaton Bar
 
-### Design Reference: 
+### Design reference: 
 https://dribbble.com/shots/5987436-Grocery-Delivery-iOS-App/attachments/1287216
