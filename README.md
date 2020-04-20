@@ -1,6 +1,6 @@
 # Flutter UI Groceries Ordering App
 <p align="center"> 
-  <img width="400" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif">
+  <img width="300" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif">
 </p>
 
 # Components used:
