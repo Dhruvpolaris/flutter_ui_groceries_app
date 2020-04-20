@@ -1,6 +1,6 @@
 # Flutter UI Groceries Ordering App
 <p align="center"> 
-![Final_Output](https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif)
+  <img width="600" height="800" src="https://github.com/Dhruvpolaris/flutter_ui_groceries_app/blob/master/final%20output.gif">
 </p>
 ## Getting Started
 
